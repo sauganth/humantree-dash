@@ -1,0 +1,19 @@
+{
+  "name": "humantree-dash",
+  "version": "1.0.0",
+  "description": "Human Tree dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauganth/humantree-dash.git"
+  },
+  "author": "Sauganth Vijayappan <sauganthv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauganth/humantree-dash/issues"
+  },
+  "homepage": "https://github.com/sauganth/humantree-dash#readme"
+}
