@@ -1,0 +1,24 @@
+{
+  "name": "humantree-dash",
+  "version": "1.0.0",
+  "authors": [
+    "Sauganth Vijayappan <sauganthv@gmail.com>"
+  ],
+  "description": "Human tree dashboard",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.0",
+    "modernizr": "~2.8.3" 
+  }
+}
