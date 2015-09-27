@@ -18,7 +18,10 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.11.0",
-    "modernizr": "~2.8.3" 
+    "modernizr": "~2.8.3",
+    "requirejs": "latest",
+    "jquery": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest"
   }
 }
